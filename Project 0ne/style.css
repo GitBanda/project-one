@@ -33,6 +33,17 @@ p{
     font-family: Verdana,;
 }
 img{
-    background-color: lightgoldenrodyellow; 
+    border-radius: 20px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 130%;
+    background-color: lightgoldenrodyellow;
+    max-width: 100%;
     
+}
+footer{
+    text-align: center;
+
 }
